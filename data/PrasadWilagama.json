@@ -1,0 +1,24 @@
+{
+  "name": "Prasad D Wilagama",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Data Scientist (Python) | Trainee- Full Stack Developer| Learning Mathematics| Physics | ICT | AL ML Engineer",
+  "avatar": "https://github.com/PrasadWilagama.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/DWilagama",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIN",
+      "url": "https://www.linkedin.com/in/prasaddwilagama/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on YouTube",
+      "url": "https://www.youtube.com/channel/UCYOekGwnaNzi45Zcpysh7rQ",
+      "icon": "FaYoutube"
+    }
+  ]
+}
